@@ -1,1 +1,2 @@
-# Oboshore-Mobile-App
+# Oboshore-Android-App
+Oboshore is a compassionate Android app built with Flutter, designed to support people who feel overwhelmed, lonely, or unheard. In moments when the world feels silent and no one seems to understand, Oboshore reminds users that they are not alone. The app creates a safe and comforting space where individuals can share their thoughts, emotions, and struggles, knowing that someone is always willing to listen. With a mission centered on emotional and mental support, Team Oboshore stands beside those who need it most, offering hope and reminding every lonely heart that there is always someone who cares and is ready to hear their story.
